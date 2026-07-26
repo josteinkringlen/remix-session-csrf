@@ -17,8 +17,8 @@ devDependencies:
     specifier: 2.27.1
     version: 2.27.1
   '@remix-run/eslint-config':
-    specifier: 2.4.1
-    version: 2.4.1(eslint@8.56.0)(react@18.2.0)(typescript@5.3.3)
+    specifier: 2.17.5
+    version: 2.17.5(eslint@8.56.0)(react@18.2.0)(typescript@5.3.3)
   '@remix-run/node':
     specifier: 2.4.1
     version: 2.4.1(typescript@5.3.3)
@@ -932,8 +932,8 @@ packages:
       tslib: 2.6.2
     dev: true
 
-  /@remix-run/eslint-config@2.4.1(eslint@8.56.0)(react@18.2.0)(typescript@5.3.3):
-    resolution: {integrity: sha512-kzl520uCcIi7OlqItzy/OSb3YVBklxeov8d39fFPbcSAmwO99l0PXmstQcRCQphAkGC7uRNl3LSJ9LpD3Gj2dQ==}
+  /@remix-run/eslint-config@2.17.5(eslint@8.56.0)(react@18.2.0)(typescript@5.3.3):
+    resolution: {integrity: sha512-+MNnkCpOYQrJiwP8n7zGkP0AEr4pGdEdL4Yd5OFpUhjx1DUGuJF/utPtwZJgcxtGTrrz8KsB6BBfLs7qtPOrYQ==}
     engines: {node: '>=18.0.0'}
     peerDependencies:
       eslint: ^8.0.0
